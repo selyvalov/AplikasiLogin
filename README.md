@@ -1,4 +1,7 @@
-# AplikasiLogin
-aplikasi login buat publik
+# Aplikasi-Login
+Sebuah aplikasi dengan fitur login.
 
-alur instalasi
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman hone.
