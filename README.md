@@ -7,3 +7,5 @@ Alur Fitur Login:
 3. Menampilkan halaman hone.
 
 *update sequash 1*
+update sequash 2
+--
